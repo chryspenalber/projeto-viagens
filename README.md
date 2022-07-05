@@ -1,29 +1,31 @@
-# Olá, eu sou a Chrystiana! 👋
+# Projeto Viagens
 
-Me formei em hotelaria, mas sempre fui uma aspirante à tecnologia. Em 2022 decidi fazer uma transição de carreira. Hoje sou uma estudante do Tech Academy na StartSe e também do Curso em Video.
+Projeto executado com base nas aulas do Tech Academy da StartSe.
 
-# HTML e CSS
+## Linguagens utilizadas
 
-Esse é o meu repositório no GitHub.
+Para esse projeto, foram utilizadas as linguagens HTML e CSS para estilos.
 
-Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Academy da StartSe e no CursoemVideo.
-
-
-
-## Projetos
+## Visualizar no navegador
 
 [Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
-[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
+## Veja meus outros Projetos
 
 [Android](https://chryspenalber.github.io/projeto-android/android.html)
 
 [Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
 
-[Hércules](https://chryspenalber.github.io/projeto-hercules/Hercules.html)
+[Hércules](https://chryspenalber.github.io/projeto-hercules/hercules_index.html)
+
+[Hora Certa](https://chryspenalber.github.io/projeto-hora-certa/index.html)
+
+[Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html)
+
+[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
 
 
-## 🔗 Links
+## 🔗 Redes
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrystiana-penalber-81876433/)
 
