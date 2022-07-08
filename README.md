@@ -22,7 +22,7 @@ Para esse projeto, foram utilizadas as linguagens HTML e CSS para estilos.
 
 [Mini Jogo](https://chryspenalber.github.io/projeto-mini-jogo/index.html)
 
-[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
+[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/index.html)
 
 
 ## 🔗 Redes
